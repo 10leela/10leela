@@ -4,4 +4,4 @@ Passionate and detail-oriented Software Developer with scalable Web Application 
 
 ##📄Resume 
 
-👉[click here to view my resume](Leela_Resume (1).pdf)
+👉[click here to view my resume](Leela_Resume.pdf)
