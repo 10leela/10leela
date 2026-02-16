@@ -4,4 +4,4 @@ Passionate and detail-oriented Software Developer with scalable Web Application 
 
 ##📄Resume 
 
-👉[click here to view my resume](Leela_Resume.pdf)
+👉[![Resume](https://img.shields.io/badge/Download-Resume-blue)](Leela_Resume.pdf)
